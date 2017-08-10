@@ -3,7 +3,7 @@ backend:
   repo: abattenburg/netlify-vue-boilerplate
   branch: master # Branch to update
   publish_mode: editorial_workflow
-  media_folder: "/static"
+  media_folder: "static/images"
 
   collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog

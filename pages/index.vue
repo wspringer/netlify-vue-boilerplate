@@ -2,7 +2,7 @@
   <section class="container">
     <div>
       <h1 class="title">
-        Hey Studio Two
+        Test NetlifyCMS and Nuxt.js
       </h1>
       <p>Nuxt.js and Netlify setup for StudioTwo</p>
     </div>

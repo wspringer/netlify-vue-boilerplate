@@ -1,4 +1,4 @@
-# studiotwo
+# Nuxt.js + Netlify
 
 > Nuxt.js project
 

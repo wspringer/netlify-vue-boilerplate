@@ -4,7 +4,7 @@
       <h1 class="title">
         Test NetlifyCMS and Nuxt.js
       </h1>
-      <p>Nuxt.js and Netlify setup for StudioTwo</p>
+      <p>Nuxt.js and Netlify boilerplate setup</p>
     </div>
   </section>
 </template>
